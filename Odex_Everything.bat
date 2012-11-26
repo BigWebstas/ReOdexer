@@ -30,7 +30,3 @@ adb shell sh /data/local/tmp/fix_permissions.sh
 Echo Check results rebooting
 adb reboot
 sleep 10
-
-
-
-
